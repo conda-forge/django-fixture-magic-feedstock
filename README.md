@@ -3,11 +3,11 @@ About django-fixture-magic
 
 Home: http://github.com/davedash/django-fixture-magic
 
-Package license: BSD 3-Clause
+Package license: BSD-3-Clause
 
 Feedstock license: BSD-3-Clause
 
-Summary: A few extra management tools to handle fixtures.
+Summary: A few extra management tools to handle fixtures
 
 
 
