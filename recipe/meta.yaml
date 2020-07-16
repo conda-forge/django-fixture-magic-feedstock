@@ -25,12 +25,16 @@ test:
     - fixture_magic
     - fixture_magic.management
     - fixture_magic.management.commands
+  commands:
+    - pip check
+  requires:
+    - pip
 
 about:
   home: http://github.com/davedash/django-fixture-magic
-  license: BSD 3-Clause
+  license: BSD-3-Clause
   license_file: LICENSE
-  summary: A few extra management tools to handle fixtures.
+  summary: A few extra management tools to handle fixtures
 
 extra:
   recipe-maintainers:
